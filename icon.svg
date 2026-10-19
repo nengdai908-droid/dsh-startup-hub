@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Startup Animation">
+  <defs>
+    <linearGradient id="sah-bg" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2b6cff"/>
+      <stop offset="0.55" stop-color="#7a4dff"/>
+      <stop offset="1" stop-color="#c13cff"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#sah-bg)"/>
+  <rect x="4.75" y="4.75" width="54.5" height="54.5" rx="13.25" fill="none" stroke="#ffffff" stroke-opacity="0.22" stroke-width="1.5"/>
+  <path d="M14 44c6.5-10 10-2.5 16-10s8-4 20-14" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="1 7"/>
+  <path d="M26 22.5v19l16-9.5z" fill="#ffffff"/>
+  <circle cx="26" cy="22.5" r="2.2" fill="#ffffff" fill-opacity="0.9"/>
+  <circle cx="26" cy="41.5" r="2.2" fill="#ffffff" fill-opacity="0.9"/>
+</svg>

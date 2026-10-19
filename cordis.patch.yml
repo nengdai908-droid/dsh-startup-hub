@@ -1,0 +1,7 @@
+# dsh-startup-hub — bundle patch
+#
+# 启动动画由本插件统一接管：它按设置页里的选择，把自己扫描到的动画版本
+# 通过 /dsh-startup-hub/* 路由发给页面。
+- insert:
+    - id: dsh-startup-hub
+      name: dsh-startup-hub
